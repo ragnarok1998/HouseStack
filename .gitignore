@@ -1,0 +1,12 @@
+# production
+/build
+#dependencies
+/node_modules
+#environment variables
+/.env
+#editor
+/.vscode
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
